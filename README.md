@@ -1,6 +1,7 @@
 # Whitbread PWA
 
 This PWA presents Whitbread dispenser settings and install equipment checklists.
+https://grahamm89.github.io/WhitbreadAudit/
 
 ## Deploy on GitHub Pages
 1. Push the folder to a GitHub repo.
